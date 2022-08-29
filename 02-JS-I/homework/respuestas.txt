@@ -1,0 +1,11 @@
+Variable: es como una caja donde puedo almacenar un dato para usarlo en algun otro momento.
+
+String: es un tipo de variable , que tiene que ver con texto.
+
+Funciones: sirven para agrupar codigo , que luego podemos utilizar las veces que sea necesario , sin la necesidad
+           de reescribir el mismo codigo. Siempre devuelven algun valor.
+
+Declaraciones If: son estructuras que nos permiten dar logica a nuestro codigo.Nos permiten envaluar o verificar 
+                  variables segun una condicion.
+
+Valores booleanos (true, false): solo pueden tomor valores 0 o 1. Verdadero o Falso.                  
